@@ -4,26 +4,6 @@ A comprehensive Power BI dashboard analyzing pharmaceutical sales data across di
 
 ![Dashboard Preview](screenshots/page1_executive_overview.png)
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-orange)
-![Status](https://img.shields.io/badge/Status-Complete-success)
-
----
-
-## 📋 Table of Contents
-## Project Overview
-## Dataset
-## Key Features
-## Dashboard Pages
-## Key Insights
-## Technical Details
-## Tools & Technologies
-## How to Use
-## Project Structure
-## Author
-
----
-
 ## 🎯 Project Overview
 
 This project was developed as part of the UIU Data Analytics Course (CDIP, United International University) to demonstrate proficiency in:
@@ -488,79 +468,22 @@ Potential improvements for Version 2.0:
 
 ---
 
-## 📝 Analytical Questions Answered
-
-This dashboard successfully addresses all assignment questions:
-
-### 1. **Which month had the highest total sales?**
-**Answer:** Based on the Monthly Sales Trend line chart, sales peaked in **Q4 (October-December) of 2019**, reaching approximately **$0.4-0.5bn** in individual months. The chart shows consistent seasonal patterns with Q4 performing strongest across all years.
-
-### 2. **Who is the top-performing sales representative?**
-**Answer:** **Jimmy Grey** is the top-performing sales representative with **$986M in total sales (8.36% of company total)**. He consistently outperformed peers across the 4-year period, as shown in both the donut chart and the trend line visualization.
-
-### 3. **Which product class generates the most revenue?**
-**Answer:** **Analgesics** is the highest revenue-generating product class with approximately **$2bn in total sales**, followed closely by Antiseptics (~$1.8bn) and Mood Stabilizers (~$1.7bn). The product class bar chart clearly shows Analgesics leading by a significant margin.
-
-### 4. **Is there any noticeable trend across different channels (Hospital vs Pharmacy)?**
-**Answer:** Yes, several notable trends:
-- Both channels show **parallel growth** from 2017 to 2020
-- **Hospital channel** shows slightly higher growth momentum in later years
-- **Consistent upward trajectory** with no major disruptions
-- Both channels reached peak performance around **$1bn+ annually** by 2020
-- The dual-axis chart reveals **quantity and sales value move in tandem**, indicating stable pricing
-
-### 5. **Are there any cities or regions underperforming in sales?**
-**Answer:** The geographic bubble map reveals:
-- **Smaller bubbles** (representing lower sales) are distributed across peripheral regions
-- **Urban centers** show larger concentration (bigger bubbles)
-- **Opportunity areas:** Cities with small bubble sizes indicate untapped potential
-- **Recommendation:** Focus expansion efforts on cities currently showing minimal presence on the map
-- The map suggests a **concentration strategy** has been successful in major markets, but **penetration strategy** needed for secondary cities
-
----
-
 ## 👨‍💻 Author
 
-**[Your Full Name]**
-- 🎓 UIU Bootcamp Graduate - Data Analytics Track
-- 📧 Email: [your.email@example.com]
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 💻 GitHub: [github.com/yourusername](https://github.com/yourusername)
-- 📍 Location: [Your City, Country]
+**Zareen Shyma**
+- 📧 Email: mithizs08@gmail.com
+- 💼 LinkedIn: [https://www.linkedin.com/in/zareen-shyma/](https://www.linkedin.com/in/zareen-shyma/)
+- 💻 GitHub: [github.com/mithizs08](https://github.com/mithizs08)
 
 ### Skills Demonstrated
 `Power BI` `DAX` `Power Query` `Data Modeling` `ETL` `Business Intelligence` `Data Visualization` `SQL` `Dashboard Design` `Analytics`
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License**.
-```
-MIT License
-
-Copyright (c) 2025 [Your Name]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-```
-
----
 
 ## 🙏 Acknowledgments
 
-- **UIU Bootcamp** for the comprehensive project assignment and learning framework
+- **UIU Data Analytics Course** for the comprehensive project assignment and learning framework
 - **Power BI Community** for inspiration and best practices
 - **Microsoft Learn** for Power BI documentation and tutorials
 - **Dataset Contributors** for providing realistic pharmaceutical sales data
@@ -571,18 +494,10 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 Questions, suggestions, or collaboration opportunities?
 
-- 📧 Email me at: [your.email@example.com]
-- 💼 Connect on LinkedIn: [Your LinkedIn]
-- 🐛 Report issues: [GitHub Issues](https://github.com/[YourUsername]/Pharma-Sales-PowerBI-Dashboard/issues)
+- 📧 Email me at: mithizs08@gmail.com
+- 💼 Connect on LinkedIn: [Zareen Shyma](https://www.linkedin.com/in/zareen-shyma/)
+- 🐛 Report issues: [GitHub Issues](https://github.com/[mithizs08]/pharma-sales-powerbi-dashboard/issues)
 - ⭐ **If you found this project helpful, please give it a star!**
-
----
-
-## 📊 Project Stats
-
-![GitHub repo size](https://img.shields.io/github/repo-size/[YourUsername]/Pharma-Sales-PowerBI-Dashboard)
-![GitHub last commit](https://img.shields.io/github/last-commit/[YourUsername]/Pharma-Sales-PowerBI-Dashboard)
-![GitHub stars](https://img.shields.io/github/stars/[YourUsername]/Pharma-Sales-PowerBI-Dashboard?style=social)
 
 ---
 
@@ -593,9 +508,9 @@ Questions, suggestions, or collaboration opportunities?
 ### 🎯 Quick Access
 
 - 📂 [View Dashboard File](report/Pharma_Sales_Dashboard.pbix)
-- 📊 [Download Dataset](data/pharma_sales_data.csv)
+- 📊 [Download Dataset](data/)
 - 📸 [View All Screenshots](screenshots/)
-- 📝 [Report Issues](https://github.com/[YourUsername]/Pharma-Sales-PowerBI-Dashboard/issues)
+- 📝 [Report Issues](https://github.com/[YourUsername]/pharma-sales-powerbi-dashboard/issues)
 
 ---
 
