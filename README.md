@@ -59,9 +59,14 @@ This project was developed as part of the UIU Data Analytics Course (CDIP, Unite
 - **Sales Team:** Sales Representative, Manager, Team (Alfa, Bravo, Charlie, Delta)
 - **Time:** Year, Month, Quarter
 
-**Data File:** Available in `/data` folder
 
----
+**Data File:** Available in `/data` folder as `pharma_sales_data.zip`
+
+**To use:**
+1. Download `pharma_sales_data.zip`
+2. Extract the CSV file
+3. Place it in the same folder as the .pbix file
+4. Open Power BI and refresh data
 
 ## ✨ Key Features
 
