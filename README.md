@@ -11,16 +11,16 @@ A comprehensive Power BI dashboard analyzing pharmaceutical sales data across di
 ---
 
 ## 📋 Table of Contents
-- [Project Overview](#project-overview)
-- [Dataset](#dataset)
-- [Key Features](#key-features)
-- [Dashboard Pages](#dashboard-pages)
-- [Key Insights](#key-insights)
-- [Technical Details](#technical-details)
-- [Tools & Technologies](#tools--technologies)
-- [How to Use](#how-to-use)
-- [Project Structure](#project-structure)
-- [Author](#author)
+## Project Overview
+## Dataset
+## Key Features
+## Dashboard Pages
+## Key Insights
+## Technical Details
+## Tools & Technologies
+## How to Use
+## Project Structure
+## Author
 
 ---
 
